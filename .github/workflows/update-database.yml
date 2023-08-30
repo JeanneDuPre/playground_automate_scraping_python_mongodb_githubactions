@@ -1,7 +1,6 @@
 name: Update S&P500 Symbol List
 
 on:
-  schedule:
   workflow_dispatch:
 
 jobs:
